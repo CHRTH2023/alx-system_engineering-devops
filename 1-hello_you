@@ -1,0 +1,6 @@
+touch 1-hello_you.sh
+sudo nano 1-hello_you.sh
+#!/bin/sh
+echo Hello chance
+ctlr+x then y then Enter
+bash 1-hello_you
