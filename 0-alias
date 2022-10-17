@@ -1,0 +1,3 @@
+cd /
+mkdir 0x03-shell_variables_expansions
+touch 0-alias
